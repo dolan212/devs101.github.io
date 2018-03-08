@@ -1,2 +1,2 @@
-# devs101.github.io
-Skill Tree Maker, by devs101
+# Skill Tree Maker
+A project by devs101 and Mark-Anthony Fouche
